@@ -1,0 +1,8 @@
+[package]
+name = "excel_reader"
+version = "0.1.0"
+authors = ["Wlaeder"]
+
+[dependencies]
+clap = "2.20.0"
+calamine = "0.3.2"

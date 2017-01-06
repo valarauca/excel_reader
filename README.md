@@ -15,7 +15,7 @@ USAGE:
     excel_reader.exe [FLAGS] [OPTIONS]
 
 FLAGS:
-        --convert_csv         Writes each sheet of the CSV to the filesystem.
+        --convert_csv         Writes each sheet of the xl* file as a CSV to the filesystem.
         --dump_vba            Writes VBA files to the filesystem.
         --has_vba             States if the excel file has VBA
     -h, --help                Prints help information
